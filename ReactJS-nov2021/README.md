@@ -16,9 +16,11 @@
 
 ## Topics
 
-```html
-_Resources_
-_Course Introduction_
+<ol>
+  <li>1235</li>
+</ol>
+_1.Resources_
+_2.Course Introduction_
 _Intro to React and JSX
 _Components: Basic Idea_
 _Components: Deep Dive_
@@ -34,6 +36,6 @@ _Workshop: Advanced Techniques - Part 2_
 _Regular Exam I_
 _Regular Exam II_
 _Retake Exam_
-```
+
 
 
