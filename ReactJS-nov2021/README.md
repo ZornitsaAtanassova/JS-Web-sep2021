@@ -17,8 +17,8 @@
 ## Topics
 
 <ol>
-  <li>_Resources_</li>
-  <li>_Course Introduction_</li>
+  <li>Resources</li>
+  <li>Course Introduction</li>
   <li></li>
   <li></li>
   <li></li>
