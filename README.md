@@ -10,18 +10,18 @@ JavaScript is unique in that it allows the same programming language and tools f
 ---
 
 ## Skills
-What is a **Web Server**?
-Basic knowledge of the **HTTP protocol**
-Server applications with **Node.JS**
-Working with **non-relational databases**
-Creating an **MVC architecture**
-Building apps with **Express** and **Handlebars**
-**Component-based** applications
-What is a **Single Page Application**?
-Basic knowledge of **React** and **JSX**
-**Client applications** with React
-Working with remote **REST services**
-Working with **templates** and **routing**
+* What is a **Web Server**?
+* Basic knowledge of the **HTTP protocol**
+* Server applications with **Node.JS**
+* Working with **non-relational databases**
+* Creating an **MVC architecture**
+* Building apps with **Express** and **Handlebars**
+* **Component-based** applications
+* What is a **Single Page Application**?
+* Basic knowledge of **React** and **JSX**
+* **Client applications** with React
+* Working with remote **REST services**
+* Working with **templates** and **routing**
 
 ---
 
