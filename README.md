@@ -1,6 +1,6 @@
-# <a href="https://softuni.bg/modules/96/js-web/1305" rel="JavaScript Web"><p align="center"> JS Web september 2021<p></a>
+# <a href="https://softuni.bg/modules/96/js-web/1305" rel="JavaScript Web" target="_blank"><p align="center"> JS Web september 2021<p></a>
 
-_This repository contains tasks resolved with JavaScript. The JS Web Module (sep 2021 - dec 2021) contains two courses - **JS Back-End** and **ReactJS** which are part of the Software Engineer program at [Software University](https://about.softuni.bg/), Bulgaria._
+_This repository contains tasks resolved with JavaScript. The JS Web Module (sep 2021 - dec 2021) contains two courses - [**JS Back-End**](https://softuni.bg/trainings/3496/js-back-end-september-2021) and [**ReactJS**](https://softuni.bg/trainings/3575/reactjs-november-2021) which are part of the Software Engineer program at [Software University](https://softuni.bg/), Bulgaria._
 
 ---
 
