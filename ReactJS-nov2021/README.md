@@ -17,11 +17,30 @@
 ## Topics
 
 <ol>
-  <li>1235</li>
+  <li>_Resources_</li>
+  <li>_Course Introduction_</li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
+  <li></li>
 </ol>
-_1.Resources_
-_2.Course Introduction_
-_Intro to React and JSX
+
+_Course Introduction_
+_Intro to React and JSX_
 _Components: Basic Idea_
 _Components: Deep Dive_
 _Workshop: Components_
