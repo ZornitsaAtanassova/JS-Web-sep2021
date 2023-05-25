@@ -2,9 +2,10 @@
 *.eps
 *.pdf
 *.xlsx
+*.txt
 ##*.docx
 ##*.doc
-*.pptx
+##*.pptx
 *.png
 *.jpg
 *.jpeg
