@@ -1,0 +1,79 @@
+КУРС:
+ReactJS - ноември 2021 (02.11.2021 - 30.12.2021) - 15 кредита
+
+https://softuni.bg/trainings/3575/reactjs-november-2021
+
+
+Теми:
+- Resources
+https://www.youtube.com/watch?v=qEIy8xEhJTg
+https://www.facebook.com/groups/ReactJSnovember2021
+- Resources
+- Course Introduction - 2 ноември - Михаил Вълков
+- Intro to React and JSX - 2 ноември
+	• React Overview;
+	• Intallation;
+	• JSX Syntax;
+	• Composition.
+- Components: Basic Idea - 5 ноември
+	• Components Overview;
+	• Props;
+	• State;
+	• Handling DOM Events;
+	• Conditional Rendering.
+- Components: Deep Dive - 9 ноември
+	• Lists & Keys;
+	• Component Lifecycle;
+	• Higher-Order-Components;
+	• CSS Modules;
+	• Fetching Data.
+- Workshop: Components - 12 ноември
+- Routing - 16 ноември
+	• Virtual DOM;
+	• Routing Overview;
+	• React Router;
+	• React Lazy and Suspense.
+- Workshop: Single-Page Application - 19 ноември
+- Forms - 23 ноември
+	• Controlled Forms;
+	• Uncontrolled Forms;
+	• Validation.
+- React Hooks - 26 ноември
+	• Introduction;
+	• State Hook;
+	• Effect Hook;
+	• Rules of Hooks;
+	• Custom Hooks.
+- Workshop: Authentication - 30 ноември
+- Advanced Techniques - 3 декември
+	• Context API;
+	• More Hooks (useContext, useReducer);
+	• Error Boundaries;
+	• Unit Testing with JEST and Enzyme.
+- Workshop: Advanced Techniques - Part 1 - 7 декември
+- Workshop: Advanced Techniques - Part 2 - 10 декември
+- Regular Exam I
+	• Защитата на проекта ще се проведе на 18 декември от 9:00 до 18:00 часа.
+	• Теоретичният изпит ще се проведе на 18 декември от 9:00 часа до 18:30 часа.
+- Regular Exam II
+	• Защитата на проекта ще се проведе на 23 декември от 9:00 до 18:00 часа.
+	• Теоретичният изпит ще се проведе на 23 декември от 9:00 часа до 18:30 часа.
+- Retake Exam
+	• Защитата на проекта ще се проведе на 29 декември от 9:00 до 18:00 часа.
+	• Теоретичният изпит ще се проведе на 29декември от 9:00 часа до 18:30 часа.
+
+
+
+За курса:
+Обучението дава знания и практически умения за разработването на Single Page Applications (SPA), ползвайки технологията ReactJS - една от най-популярните и бързи библиотеки за изобразяване на клиентски интерфейс, разработвана и поддържана от Facebook и Instagram. Ще обърнем специално внимание на синтаксиса JSX, работа със заявки и Promises, разделяне на една апликации на компоненти, рутиране и валидация на форми, и различни начини за стилизиране на компоненти, ползвайки техники като CSS Modules и Styled Components. Ще разгледаме и нови концепции в библиотеката, като React Hooks и функционални компоненти. Също така по време на курса се изгражда цялостно SPA приложение и се усвоява работа с форми и свързване на данни (data binding), рутиране (routing), удостоверяване и автентикиране на регистрирани потребители. В края на курса ще разглеждате Context API, useReducer и useContext hooks, Error Boundaries и Unit Tests, ползвайки JEST.
+
+Умения, които ще придобиеш:
+- Компонентно-базирани приложения
+- Какво е Single Page Applicaion
+- Основни познания по React и JSX
+- Клиентски приложения с React
+- Работа с отдалечени REST услуги
+- Работа с шаблони и рутиране
+
+За кого е подходящ курсът?:
+Курсът е подходящ за студенти, които имат абстрактно и алгоритмично мислене, могат да боравят с по-сложни функции, усвоили са концепциите на обектно-ориентираното програмиране на JS. Препоръчително участващите в курса да имат умения за работа с REST API , асинхронно програмиране, DOM и HTML/CSS.
