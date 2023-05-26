@@ -21,10 +21,12 @@ _The training provides knowledge and practical skills for the development of Sin
   <li>Resources</li>
   <li>Course Introduction</li>
   <li>Intro to React and JSX</li>
-  * React Overview
-	* Intallation
-	* JSX Syntax
-	* Composition
+   	<ul>
+	   <li>React Overview</li>
+	   <li>Intallation</li>
+	   <li>JSX Syntax</li>
+	   <li>Composition</li>
+	</ul>
   <li>Components: Basic Idea</li>
   <li>Components: Deep Dive</li>
   <li><i>Workshop: Components</i></li>
