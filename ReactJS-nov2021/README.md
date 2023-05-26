@@ -23,18 +23,18 @@ _The training provides knowledge and practical skills for the development of Sin
   <li>Intro to React and JSX</li>
   <li>Components: Basic Idea</li>
   <li>Components: Deep Dive</li>
-  <li>_Workshop: Components_</li>
+  _<li>Workshop: Components-</li>_
   <li>Routing</li>
-  <li>_Workshop: Single-Page Application_</li>
+  <li>Workshop: Single-Page Application</li>
   <li>Forms</li>
   <li>React Hooks</li>
-  <li>_Workshop: Authentication_</li>
+  <li>Workshop: Authentication</li>
   <li>Advanced Techniques</li>
-  <li>_Workshop: Advanced Techniques - Part 1_</li>
-  <li>_Workshop: Advanced Techniques - Part 2_</li>
-  <li>_Regular Exam I_</li>
-  <li>_Regular Exam II_</li>
-  <li>_Retake Exam_</li>
+  <li>Workshop: Advanced Techniques - Part 1</li>
+  <li>Workshop: Advanced Techniques - Part 2</li>
+  <li>Regular Exam I</li>
+  <li>Regular Exam II</li>
+  <li><i>Retake Exam</i></li>
 </ol>
 
 
