@@ -1,7 +1,7 @@
-# <a href="https://softuni.bg/trainings/3575/reactjs-november-2021"><p style="text-align:center;">ReactJS november 2021<p></a>
+# <a href="https://softuni.bg/trainings/3575/reactjs-november-2021"><p align="center">ReactJS november 2021<p></a>
 
 ## About the Course
-<p style="font-size: 12px; font-style: italic;">The training provides knowledge and practical skills for the development of Single Page Applications (SPA) using ReactJS technology - one of the most popular and fast client interface rendering libraries, developed and supported by Facebook and Instagram. We'll pay special attention to JSX syntax, working with Requests and Promises, splitting an application into components, routing and form validation, and different ways to style components using techniques like CSS Modules and Styled Components. We'll also look at new concepts in the library, such as React Hooks and functional components. Also, during the course, a complete SPA application is built and work with forms and data binding, routing, authentication and authentication of registered users are mastered. At the end of the course, you will look at the Context API, useReducer and useContext hooks, Error Boundaries and Unit Tests using JEST.</p>
+_The training provides knowledge and practical skills for the development of Single Page Applications (SPA) using ReactJS technology - one of the most popular and fast client interface rendering libraries, developed and supported by Facebook and Instagram. We'll pay special attention to JSX syntax, working with Requests and Promises, splitting an application into components, routing and form validation, and different ways to style components using techniques like CSS Modules and Styled Components. We'll also look at new concepts in the library, such as React Hooks and functional components. Also, during the course, a complete SPA application is built and work with forms and data binding, routing, authentication and authentication of registered users are mastered. At the end of the course, you will look at the Context API, useReducer and useContext hooks, Error Boundaries and Unit Tests using JEST._
 
 ---
 
@@ -17,7 +17,7 @@
 
 ## Topics
 
-<ol style="color:">
+<ol>
   <li>Resources</li>
   <li>Course Introduction</li>
   <li>Course Introduction</li>
