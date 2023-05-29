@@ -21,15 +21,59 @@ _The training provides knowledge and practical skills for the development of Sin
   <li>Resources</li>
   <li>Course Introduction</li>
   <li>Intro to React and JSX</li>
+   	<ul>
+	   <li>React Overview</li>
+	   <li>Intallation</li>
+	   <li>JSX Syntax</li>
+	   <li>Composition</li>
+	</ul>
   <li>Components: Basic Idea</li>
+   	<ul>
+	   <li>Components Overview</li>
+	   <li>Props</li>
+	   <li>State</li>
+	   <li>Handling DOM Events</li>
+	   <li>Conditional Rendering</li>
+	</ul>
   <li>Components: Deep Dive</li>
+	<ul>
+	   <li>Lists & Keys</li>
+	   <li>Component Lifecycle</li>
+	   <li>Higher-Order-Components</li>
+	   <li>CSS Modules</li>
+	   <li>Fetching Data</li>
+	</ul>
   <li><i>Workshop: Components</i></li>
   <li>Routing</li>
+	<ul>
+	   <li>Virtual DOM</li>
+	   <li>Routing Overview</li>
+	   <li>React Router</li>
+	   <li>React Lazy and Suspense</li>
+	</ul>
   <li><i>Workshop: Single-Page Application</i></li>
   <li>Forms</li>
+	<ul>
+	   <li>Controlled Forms</li>
+	   <li>Uncontrolled Forms</li>
+	   <li>Validation</li>
+	</ul>
   <li>React Hooks</li>
+	<ul>
+	   <li>Introduction</li>
+	   <li>State Hook</li>
+	   <li>Effect Hook</li>
+	   <li>Rules of Hooks</li>
+	   <li>Custom Hooks</li>
+	</ul>
   <li><i>Workshop: Authentication</i></li>
   <li>Advanced Techniques</li>
+	<ul>
+	   <li>Context API</li>
+	   <li>More Hooks (useContext, useReducer)</li>
+	   <li>Error Boundaries</li>
+	   <li>Unit Testing with JEST and Enzyme</li>
+	</ul>
   <li><i>Workshop: Advanced Techniques - Part 1</i></li>
   <li><i>Workshop: Advanced Techniques - Part 2</i></li>
   <li><i>Regular Exam I</i></li>
