@@ -79,7 +79,7 @@ typings/
 # next.js build output
 .next
 
-###################################
+####### From CRA template ########
 # dependencies
 /node_modules
 /.pnp
