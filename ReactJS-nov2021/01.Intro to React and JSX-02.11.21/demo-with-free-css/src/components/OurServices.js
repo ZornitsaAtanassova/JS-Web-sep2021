@@ -1,4 +1,4 @@
-import FeatureServiceCard from "./FeatureServiceCard";
+import OurServiceCard from "./OurServiceCard";
 
 function OurServices() {
     return (
@@ -11,14 +11,38 @@ function OurServices() {
           </div>
 
           <div className="row">
-            <FeatureServiceCard />
-            <FeatureServiceCard />
-            <FeatureServiceCard />
-            <FeatureServiceCard />
-            <FeatureServiceCard />
-            <FeatureServiceCard />
-            <FeatureServiceCard />
-            <FeatureServiceCard />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
+            <OurServiceCard
+                title="OnSite SEO"
+                description="We analyse your website's structure, internal architecture & other key"
+            />
           </div>
         </div> 
       </div>

@@ -1,6 +1,5 @@
-import BasicPricingPlanCard from "./BasicPricingPlanCard";
+import PricingPlanCard from "./PricingPlanCard";
 import StandartPricingPlanCard from "./StandartPricingPlanCard";
-import ProfessionalPricingPlanCard from "./ProfessionalPricingPlanCard";
 
 function PricingPlans() {
     return(
@@ -12,11 +11,33 @@ function PricingPlans() {
             <div className="divider mx-auto"></div>
           </div>
           <div className="row mt-5">
-            <BasicPricingPlanCard />
+            <PricingPlanCard
+                title="Basic"
+                price="39.99"
+                term="Per Month"
+                // feature={[
+                //     '25 Analytics Campaign',
+                //     '1,300 Change Keywords',
+                //     'Social Media Reviews',
+                //     '1 Free Optimization',
+                //     '24/7 Support'
+                // ]}
+            />
     
             <StandartPricingPlanCard />
-    
-            <ProfessionalPricingPlanCard />
+
+            <PricingPlanCard
+                title="Professional"
+                price="99.99"
+                term="Per Month"
+                // feature={[
+                //     '25 Analytics Campaign',
+                //     '1,300 Change Keywords',
+                //     'Social Media Reviews',
+                //     '1 Free Optimization',
+                //     '24/7 Support'
+                // ]}
+            />
           </div>
         </div>
       </div>

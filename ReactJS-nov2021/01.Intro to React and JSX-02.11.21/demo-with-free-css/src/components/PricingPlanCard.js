@@ -1,14 +1,18 @@
-function BasicPricingPlanCard() {
+function PricingPlanCard({
+    title = '',
+    price,
+    term
+}) {
     return (
         <div className="col-lg-4 py-3 wow zoomIn">
             <div className="card-pricing">
                 <div className="header">
-                  <div className="pricing-type">Basic</div>
+                  <div className="pricing-type">{title}</div>
                   <div className="price">
                     <span className="dollar">$</span>
-                    <h1>39<span className="suffix">.99</span></h1>
+                    <h1>{Math.floor(price)}<span className="suffix">{price.slice(-3)}</span></h1>
                   </div>
-                  <h5>Per Month</h5>
+                  <h5>{term}</h5>
                 </div>
                 <div className="body">
                   <p>25 Analytics <span className="suffix">Campaign</span></p>
@@ -25,4 +29,4 @@ function BasicPricingPlanCard() {
     );
 }
 
-export default BasicPricingPlanCard;
+export default PricingPlanCard;
